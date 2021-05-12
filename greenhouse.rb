@@ -5,4 +5,3 @@ filtred2 = filtred1.gsub(/([A-Z0-9]{2,3})\s-\s([A-Za-z]+)$\s+/,'\1|\2|')
 filtred3 = filtred2.gsub(/(.+)UK\s.<strong>(\d{2}.\d{2})<.strong>.\sBR\s.<strong>(\d{2}.\d{2})<.strong>.\s-\s(\d{3}m)/,'\1\2|\3|\4|')
 filtred4 = filtred3.gsub(/\s+^<span.+>([A-Za-z!\s]+)<.span>/,'\1')
 puts filtred4
-# ["user1", "user2", "user3"]

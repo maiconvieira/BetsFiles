@@ -1,12 +1,10 @@
-<div.+>Race (\d|\d{2}) £(\d{2}|\d{3}) \((.{2}|.{3})\) (\d{3}m) Going: ((\+|-)\d{2})<\/span>\s+<\/div>\s+<\/div><div class="meetingResultsList">\s+(<div class="container"><a href="#results-dog\/race_id=(\d{7})&amp;dog_id=521715&amp;r_date=(\d{4})-(\d{2})-(\d{2})&amp;track_id=(\d{2}|\d{3})&amp;r_time=(\d{2}:\d{2})") ==> $9$10$11\t$8\t$12\t\$13\t\$1\t$3\t$4\t$5\n====================\n$7
-^<[a-z\s=]+"container"><a\shref=".+dog_id=(\d+)&.+"\s[a-z=]+.+"place">(\d)<sup>(\w{2}).+"bigTrap\strap(\d)".+"name">(.+)<\/div.+"dog-result-details".+"dog-color">(\w{2}).+"dog-sex">(b|d)<.+"dog-sire-dam">((.+)-(.+))<\/span><.+"dog-date-of-birth">([A-Za-z\s\d]+)<\/span><.+dog-cols">.+col1">(.+)<\/div.+col2">(.+)<\/div><div.+col3.+">T:<\/span>\s(.+)<\/div><\/div><\/div>.+comment">\((\d.\d{2})\)\s(.+)<\/p.+$ ==> $1\t$2$3\t$4\t$5\t$6\t$7\t$9\t$10\t$11\t$12\t$13\t$14\t$15\t$16
+<div.+>Race (\d|\d{2}) £(\d{2}|\d{3}) \((.{2}|.{3})\) (\d{3}m) Going: ((\+|-)\d{2})<\/span>\s+<\/div>\s+<\/div><div class="meetingResultsList">\s+(<div class="container"><a href="#results-dog\/race_id=(\d{7})&amp;dog_id=\d+&amp;r_date=(\d{4})-(\d{2})-(\d{2})&amp;track_id=(\d{2}|\d{3})&amp;r_time=(\d{2}:\d{2})") ==> $9$10$11|$8|$12|$13|$1|$3|$4|$5|\n$7
+
+(>\s\s*<|>\s\s*(\d)<|>\s\s*([a-zA-Z]+)\s\s*<) ==> >$2$3<
+(>\s\s*(\d)|>\s\s*([a-zA-Z]+)) ==> >$2$3
+((\d)\s\s*<|([a-zA-Z;&]+)\s\s*<) ==> $2$3<
+
+^<[a-z\s=]+"container"><a\shref=".+dog_id=(\d+)&.+"\s[a-z=]+.+"place".+trap(\d)".+"name">(.+)<\/div.+"dog-color">(\w{2}).+"dog-sex">(b|d)<.+"dog-sire-dam">((.+)-(.+))<\/span><.+"dog-date-of-birth">([A-Za-z\s\d]+)<\/span><.+dog-cols">.+col1">(.+)<\/div.+col2">(.+)<\/div><div.+col3.+">T:<\/span>(.+)<\/div><\/div><\/div>.+comment">(\((\d.\d{2})\)\s|)(.+)<\/p.+$ ==> $1|$2|$3|$4|$5|$7|$8|$9|$10|$11|$12|$14|$15|
 
 ====================
-20210101	1807744	76	11:06	1	A4	462m	+20
-====================
-521715	1st	4	Flagstaff	bd	d	Razldazl George	Cashen Loca	Sep 16	27.96	5/2F	M May	5.45	slow away, led from third and drew clear
-545052	2nd	2	Handy Chap	bk	d	Droopys Jet	Equally Fast	Dec 18	6 1/2	4/1	J Robinson	5.38	early pace, led first to third, crowded half
-521300	3rd	1	Grumpy Tinker	bk	b	Over Limit	Swift Linscott	Sep 16	2 3/4	11/4	N Langley	5.35	quick away, led to first, crowded half and checked third
-536272	4th	3	Carrigeen Honey	wf	b	Ballymac Vic	Kilgowan Honey	Feb 18	hd	11/4	R Harwood	5.36	clear run
-525045	5th	5	Leathems Bud	bk	b	Tullymurry Act	Pony Imp	May 17	3 1/2	6/1	W Lyons	5.43	forced to check and crowded second
-540516	6th	6	Lemming Dancer	bk	d	Laughil Blake	Slippy Dancer	Oct 18	1 1/2	8/1	E Upton	5.42	forced to check and crowded second
+20210101|1807745|76|11:21|2|D3|268m|+10|540489|6|Darco|bk|d|Greenwell Hulk|Dodos Girl|Jun 18|16.60|6/1|D Wright||slow away and finished well|541804|1|Millroad Wishes|bk|d|Paddys Magic|Bellmore Fantasy|Aug 18|3/4|9/4F|M May||quick away, led to run in|535941|3|Lynhouse Lira|bk|b|Knight Trip|Velvet Sand Jam|Oct 17|3 1/4|6/1|R Harwood||early pace, forced to check and crowded first|531163|2|Bellinter Jet|bk|b|Droopys Jet|Siberian Pearl|Sep 17|1 3/4|8/1|P Taylor||forced to check and crowded first|540917|5|Ross Star|bk|b|Laughil Blake|My Girl Lollypop|Jul 18|Dist|5/2|J Hurst||badly crowded and knocked over first|549643|4|Errill Rocket|bk|d|Toolatetosell|Coolavanny Muir|Jul 19|DNF|5/2|J Robinson||checked badly crowded and knocked over first|
