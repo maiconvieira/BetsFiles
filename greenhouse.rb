@@ -12,7 +12,7 @@ time_stamp = time.strftime("%Y%m%d")
 
 File.write("greenhouse_temp.txt", filtred4, mode: "w+")
 File.foreach("greenhouse_temp.txt") do |line|
-  if /^\d{7}.A(4|5|6|7).[A-Za-z]+.\d{2}.\d{2}.(07|08|09|10|11|12|13).\d{2}.4(5|6|7|8)\dm.+$/.match?(line)
+  if /^\d{7}.A(4|5|6|7).[A-Za-z]+.\d{2}.\d{2}.\d{2}.\d{2}.4(5|6|7|8)\dm.+$/.match?(line)
     newtext << line
   end
 end
