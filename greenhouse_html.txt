@@ -1,22 +1,39 @@
 <div class="m-list-timeline__items">
+<<<<<<< HEAD
                         <a href="https://greenhousetips.com.br/dashboard/races/1837759" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837759">
+=======
+                        <a href="https://greenhousetips.com.br/dashboard/races/1838706" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838706">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A6 - Kilky
+=======
+                    D2 - CPark
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>08:12</strong>) BR (<strong>04:12</strong>) - 480m
                     </small>
                     <div>
-                                                                                                                    </div>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837760" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837760">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A6 - Kilky
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838906" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838906">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A7 - Hnlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>08:27</strong>) BR (<strong>04:27</strong>) - 480m
                     </small>
@@ -25,20 +42,33 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837761" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837761">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838707" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838707">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
                     A6 - Kilky
                     <small>
                         UK (<strong>08:43</strong>) BR (<strong>04:43</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837762" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837762">
+=======
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838963" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838963">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -51,11 +81,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837763" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837763">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A5 - Kilky
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838907" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838907">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A2 - Hnlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>09:18</strong>) BR (<strong>05:18</strong>) - 480m
                     </small>
@@ -64,7 +102,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837764" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837764">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838787" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838787">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
@@ -78,7 +120,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837765" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837765">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838708" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838708">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -87,6 +133,7 @@
                         UK (<strong>09:52</strong>) BR (<strong>05:52</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
@@ -96,6 +143,18 @@
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A4 - Kilky
+=======
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838964" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838964">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A4 - PerB
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>10:07</strong>) BR (<strong>06:07</strong>) - 480m
                     </small>
@@ -104,20 +163,35 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837767" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837767">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838908" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838908">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                 <span class="m-list-timeline__text">
                     A4 - Kilky
                     <small>
                         UK (<strong>10:23</strong>) BR (<strong>06:23</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837768" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837768">
+=======
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838788" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838788">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -130,7 +204,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837770" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837770">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838709" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838709">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -143,11 +221,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837591" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837591">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A9 - Cryfd
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838965" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838965">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    D2 - PerB
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>10:53</strong>) BR (<strong>06:53</strong>) - 380m
                     </small>
@@ -156,7 +242,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837771" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837771">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838909" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838909">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -169,15 +259,22 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837737" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837737">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838789" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838789">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                 <span class="m-list-timeline__text">
                     HP - Swndn
                     <small>
                         UK (<strong>11:06</strong>) BR (<strong>07:06</strong>) - 476m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                     <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                     <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
                                                                     </div>
@@ -185,6 +282,13 @@
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837592" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837592">
+=======
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838710" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838710">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
@@ -193,6 +297,7 @@
                         UK (<strong>11:09</strong>) BR (<strong>07:09</strong>) - 380m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                     <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
@@ -204,6 +309,17 @@
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D1 - PerB
+=======
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838966" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838966">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A2 - PerB
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>11:13</strong>) BR (<strong>07:13</strong>) - 275m
                     </small>
@@ -213,37 +329,63 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837772" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837772">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A7 - CPark
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838910" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838910">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+                    A8 - Hnlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>11:16</strong>) BR (<strong>07:16</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837738" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837738">
+=======
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838790" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838790">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
                     A4 - Swndn
                     <small>
                         UK (<strong>11:21</strong>) BR (<strong>07:21</strong>) - 476m
                     </small>
                     <div>
-                                                                                                                    </div>
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837593" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837593">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A4 - Cryfd
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838711" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838711">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - CPark
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>11:24</strong>) BR (<strong>07:24</strong>) - 380m
                     </small>
@@ -252,11 +394,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837807" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837807">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A2 - PerB
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838967" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838967">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A7 - PerB
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>11:28</strong>) BR (<strong>07:28</strong>) - 480m
                     </small>
@@ -265,11 +415,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837773" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837773">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D3 - CPark
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838911" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838911">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A4 - Hnlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>11:31</strong>) BR (<strong>07:31</strong>) - 265m
                     </small>
@@ -278,20 +436,33 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837739" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837739">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838791" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838791">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A2 - Swndn
+=======
+                    A8 - Swndn
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>11:36</strong>) BR (<strong>07:36</strong>) - 476m
                     </small>
                     <div>
-                                                                                                                    </div>
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837594" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837594">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838712" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838712">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -304,6 +475,7 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837808" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837808">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -311,19 +483,38 @@
                     D3 - PerB
                     <small>
                         UK (<strong>11:43</strong>) BR (<strong>07:43</strong>) - 275m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838968" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838968">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A8 - PerB
+                    <small>
+                        UK (<strong>12:21</strong>) BR (<strong>08:21</strong>) - 480m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837774" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837774">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838912" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838912">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A6 - CPark
                     <small>
                         UK (<strong>11:46</strong>) BR (<strong>07:46</strong>) - 480m
+=======
+                    A3 - Hnlow
+                    <small>
+                        UK (<strong>12:24</strong>) BR (<strong>08:24</strong>) - 460m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                     <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
@@ -331,11 +522,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837740" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837740">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A8 - Swndn
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838792" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838792">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Swndn
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>11:51</strong>) BR (<strong>07:51</strong>) - 476m
                     </small>
@@ -344,25 +543,36 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837595" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837595">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838713" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838713">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     S5 - Cryfd
                     <small>
                         UK (<strong>11:54</strong>) BR (<strong>07:54</strong>) - 540m
                     </small>
                     <div>
-                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
-                                                                                            </div>
+                                                                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837809" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837809">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D4 - PerB
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838969" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838969">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A6 - PerB
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>11:58</strong>) BR (<strong>07:58</strong>) - 275m
                     </small>
@@ -371,21 +581,38 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837775" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837775">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838913" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838913">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     D2 - CPark
+=======
+                    A6 - Hnlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:01</strong>) BR (<strong>08:01</strong>) - 265m
                     </small>
                     <div>
                                                     <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837741" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837741">
+=======
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838793" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838793">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -398,7 +625,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837596" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837596">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838714" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838714">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -407,6 +638,7 @@
                         UK (<strong>12:09</strong>) BR (<strong>08:09</strong>) - 380m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
@@ -416,6 +648,19 @@
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A5 - PerB
+=======
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838970" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838970">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    D4 - PerB
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:13</strong>) BR (<strong>08:13</strong>) - 480m
                     </small>
@@ -424,24 +669,41 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837776" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837776">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838914" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838914">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A1 - CPark
+=======
+                    A7 - Hnlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:16</strong>) BR (<strong>08:16</strong>) - 480m
                     </small>
                     <div>
-                                                                                                                    </div>
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837742" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837742">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A7 - Swndn
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838794" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838794">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A4 - Swndn
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:21</strong>) BR (<strong>08:21</strong>) - 476m
                     </small>
@@ -451,49 +713,87 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837597" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837597">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838715" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838715">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A9 - Cryfd
+=======
+                    A3 - CPark
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:24</strong>) BR (<strong>08:24</strong>) - 380m
                     </small>
                     <div>
-                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
-                                                                                            </div>
+                                                                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837811" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837811">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
                     A7 - PerB
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838971" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838971">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+                    A9 - PerB
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:28</strong>) BR (<strong>08:28</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                     <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
                                                                     </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837777" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837777">
+=======
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838915" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838915">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     D1 - CPark
+=======
+                    A2 - Hnlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:31</strong>) BR (<strong>08:31</strong>) - 265m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                     <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837743" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837743">
+=======
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838795" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838795">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
@@ -521,26 +821,64 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837812" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837812">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838716" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838716">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A8 - PerB
                     <small>
                         UK (<strong>12:43</strong>) BR (<strong>08:43</strong>) - 480m
                     </small>
                     <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837778" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837778">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838972" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838972">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    A4 - CPark
+                    <small>
+                        UK (<strong>12:46</strong>) BR (<strong>08:46</strong>) - 480m
+=======
+                    D3 - PerB
+                    <small>
+                        UK (<strong>13:21</strong>) BR (<strong>09:21</strong>) - 275m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    </small>
+                    <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837778" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837778">
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837744" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837744">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838916" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838916">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
-                    A4 - CPark
+<<<<<<< HEAD
+                    A5 - Swndn
+=======
+                    A4 - Hnlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
-                        UK (<strong>12:46</strong>) BR (<strong>08:46</strong>) - 480m
+                        UK (<strong>12:51</strong>) BR (<strong>08:51</strong>) - 476m
                     </small>
                     <div>
                                                                                                     <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
@@ -548,38 +886,42 @@
                 </span>
             </div>
         </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837744" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837744">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    A5 - Swndn
-                    <small>
-                        UK (<strong>12:51</strong>) BR (<strong>08:51</strong>) - 476m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837599" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837599">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A10 - Cryfd
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838796" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838796">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Swndn
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:54</strong>) BR (<strong>08:54</strong>) - 380m
                     </small>
                     <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837813" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837813">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A4 - PerB
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838717" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838717">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A2 - CPark
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>12:58</strong>) BR (<strong>08:58</strong>) - 480m
                     </small>
@@ -588,11 +930,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837779" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837779">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D3 - CPark
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838973" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838973">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - PerB
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>13:02</strong>) BR (<strong>09:02</strong>) - 265m
                     </small>
@@ -601,6 +951,7 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837745" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837745">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -608,17 +959,34 @@
                     A6 - Swndn
                     <small>
                         UK (<strong>13:06</strong>) BR (<strong>09:06</strong>) - 476m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838917" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838917">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    S2 - Hnlow
+                    <small>
+                        UK (<strong>13:39</strong>) BR (<strong>09:39</strong>) - 550m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837600" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837600">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A3 - Cryfd
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838797" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838797">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A4 - Swndn
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>13:09</strong>) BR (<strong>09:09</strong>) - 380m
                     </small>
@@ -627,7 +995,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837814" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837814">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838838" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838838">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -640,6 +1012,7 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837780" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837780">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -647,26 +1020,53 @@
                     A2 - CPark
                     <small>
                         UK (<strong>13:17</strong>) BR (<strong>09:17</strong>) - 480m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838974" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838974">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    D3 - PerB
+                    <small>
+                        UK (<strong>13:51</strong>) BR (<strong>09:51</strong>) - 275m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837746" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837746">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838824" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838824">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A5 - Swndn
+=======
+                    A3 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>13:21</strong>) BR (<strong>09:21</strong>) - 476m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837601" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837601">
+=======
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838798" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838798">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -679,7 +1079,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837815" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837815">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838811" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838811">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
@@ -693,11 +1097,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837781" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837781">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A3 - CPark
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838839" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838839">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Monmr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>13:33</strong>) BR (<strong>09:33</strong>) - 480m
                     </small>
@@ -706,23 +1118,30 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837747" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837747">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838825" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838825">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A4 - Swndn
                     <small>
                         UK (<strong>13:36</strong>) BR (<strong>09:36</strong>) - 476m
                     </small>
                     <div>
-                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
-                                                                                            </div>
+                                                                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837602" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837602">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838812" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838812">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A7 - Cryfd
                     <small>
@@ -730,11 +1149,12 @@
                     </small>
                     <div>
                                                     <span class="m-badge m-badge--primary m-badge--wide">Free</span>
-                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
-                                                                    </div>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837816" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837816">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -742,17 +1162,34 @@
                     A6 - PerB
                     <small>
                         UK (<strong>13:44</strong>) BR (<strong>09:44</strong>) - 480m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838840" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838840">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    S2 - Monmr
+                    <small>
+                        UK (<strong>14:23</strong>) BR (<strong>10:23</strong>) - 630m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837853" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837853">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A9 - Monmr
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838826" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838826">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>13:49</strong>) BR (<strong>09:49</strong>) - 480m
                     </small>
@@ -762,11 +1199,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837748" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837748">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838813" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838813">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A3 - Swndn
+=======
+                    A7 - Sheff
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>13:51</strong>) BR (<strong>09:51</strong>) - 476m
                     </small>
@@ -776,15 +1221,24 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837723" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837723">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A6 - Hove
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838841" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838841">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Monmr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>13:57</strong>) BR (<strong>09:57</strong>) - 500m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
                 </span>
@@ -795,6 +1249,18 @@
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D2 - PerB
+=======
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838827" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838827">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A8 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>13:59</strong>) BR (<strong>09:59</strong>) - 275m
                     </small>
@@ -803,15 +1269,24 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837699" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837699">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A4 - Sland
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838814" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838814">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+                <span class="m-list-timeline__text">
+                    A5 - Sheff
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>14:04</strong>) BR (<strong>10:04</strong>) - 450m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
                 </span>
@@ -824,17 +1299,40 @@
                     A3 - Monmr
                     <small>
                         UK (<strong>14:07</strong>) BR (<strong>10:07</strong>) - 480m
+=======
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838842" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838842">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    D3 - Monmr
+                    <small>
+                        UK (<strong>15:02</strong>) BR (<strong>11:02</strong>) - 264m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837724" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837724">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A6 - Hove
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838815" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838815">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Sheff
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>14:12</strong>) BR (<strong>10:12</strong>) - 500m
                     </small>
@@ -843,29 +1341,45 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837700" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837700">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838828" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838828">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A3 - Sland
+=======
+                    A6 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>14:19</strong>) BR (<strong>10:19</strong>) - 450m
                     </small>
                     <div>
-                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
-                                                                    </div>
+                                                                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837855" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837855">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838843" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838843">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     S2 - Monmr
+=======
+                    A3 - Monmr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>14:23</strong>) BR (<strong>10:23</strong>) - 630m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                     <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                     <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
                                                                     </div>
@@ -873,24 +1387,55 @@
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837725" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837725">
+=======
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838816" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838816">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A4 - Hove
+=======
+                    A6 - Sheff
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>14:32</strong>) BR (<strong>10:32</strong>) - 500m
                     </small>
                     <div>
-                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
-                                                                                            </div>
+                                                                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837701" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837701">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     HP - Sland
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838829" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838829">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A3 - Romfd
+                    <small>
+                        UK (<strong>15:28</strong>) BR (<strong>11:28</strong>) - 400m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838844" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838844">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A8 - Monmr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>14:36</strong>) BR (<strong>10:36</strong>) - 261m
                     </small>
@@ -899,19 +1444,29 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837856" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837856">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A6 - Monmr
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838817" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838817">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    D2 - Sheff
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>14:42</strong>) BR (<strong>10:42</strong>) - 480m
                     </small>
                     <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837726" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837726">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -919,27 +1474,50 @@
                     D1 - Hove
                     <small>
                         UK (<strong>14:52</strong>) BR (<strong>10:52</strong>) - 285m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838830" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838830">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A2 - Romfd
+                    <small>
+                        UK (<strong>15:48</strong>) BR (<strong>11:48</strong>) - 400m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837702" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837702">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838845" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838845">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                 <span class="m-list-timeline__text">
                     HP - Sland
                     <small>
                         UK (<strong>14:54</strong>) BR (<strong>10:54</strong>) - 261m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837857" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837857">
+=======
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838818" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838818">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -952,11 +1530,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837703" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837703">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A1 - Sland
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838831" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838831">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>15:09</strong>) BR (<strong>11:09</strong>) - 450m
                     </small>
@@ -965,11 +1551,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837727" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837727">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A4 - Hove
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838846" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838846">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Monmr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>15:11</strong>) BR (<strong>11:11</strong>) - 500m
                     </small>
@@ -978,15 +1572,22 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837858" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837858">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838819" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838819">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                 <span class="m-list-timeline__text">
                     A1 - Monmr
                     <small>
                         UK (<strong>15:18</strong>) BR (<strong>11:18</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                     <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
                                                                     </div>
                 </span>
@@ -997,6 +1598,18 @@
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A6 - Sland
+=======
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838832" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838832">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A10 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>15:26</strong>) BR (<strong>11:26</strong>) - 450m
                     </small>
@@ -1005,11 +1618,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837728" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837728">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A3 - Hove
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838847" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838847">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A7 - Monmr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>15:28</strong>) BR (<strong>11:28</strong>) - 500m
                     </small>
@@ -1018,6 +1639,7 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837859" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837859">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -1025,33 +1647,65 @@
                     A9 - Monmr
                     <small>
                         UK (<strong>15:38</strong>) BR (<strong>11:38</strong>) - 480m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838820" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838820">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A7 - Sheff
+                    <small>
+                        UK (<strong>16:43</strong>) BR (<strong>12:43</strong>) - 500m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837705" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837705">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838833" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838833">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     HP - Sland
+=======
+                    A7 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>15:44</strong>) BR (<strong>11:44</strong>) - 450m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837729" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837729">
+=======
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838848" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838848">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A7 - Hove
                     <small>
                         UK (<strong>15:48</strong>) BR (<strong>11:48</strong>) - 500m
+=======
+                    D1 - Monmr
+                    <small>
+                        UK (<strong>16:58</strong>) BR (<strong>12:58</strong>) - 264m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
@@ -1059,24 +1713,44 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837860" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837860">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A5 - Monmr
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838821" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838821">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    HP - Sheff
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>15:58</strong>) BR (<strong>11:58</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
+=======
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837706" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837706">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     HP - Sland
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838834" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838834">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A9 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>16:04</strong>) BR (<strong>12:04</strong>) - 450m
                     </small>
@@ -1086,26 +1760,21 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837730" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837730">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    A9 - Hove
-                    <small>
-                        UK (<strong>16:08</strong>) BR (<strong>12:08</strong>) - 500m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837861" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837861">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838849" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838849">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    A9 - Hove
+=======
                     A4 - Monmr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
-                        UK (<strong>16:18</strong>) BR (<strong>12:18</strong>) - 480m
+                        UK (<strong>16:08</strong>) BR (<strong>12:08</strong>) - 500m
                     </small>
                     <div>
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
@@ -1113,7 +1782,35 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837861" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837861">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838822" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838822">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    A4 - Monmr
+                    <small>
+                        UK (<strong>16:18</strong>) BR (<strong>12:18</strong>) - 480m
+=======
+                    D3 - Sheff
+                    <small>
+                        UK (<strong>17:22</strong>) BR (<strong>13:22</strong>) - 280m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    </small>
+                    <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837707" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837707">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838835" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838835">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1126,11 +1823,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837731" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837731">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838850" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838850">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A5 - Hove
+=======
+                    A7 - Monmr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>16:28</strong>) BR (<strong>12:28</strong>) - 500m
                     </small>
@@ -1140,24 +1845,55 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837862" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837862">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838836" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838836">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    A7 - Monmr
+=======
+                    A9 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>16:38</strong>) BR (<strong>12:38</strong>) - 480m
+                    </small>
+                    <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837708" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837708">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838851" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838851">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
-                    A7 - Monmr
+                    A5 - Monmr
                     <small>
-                        UK (<strong>16:38</strong>) BR (<strong>12:38</strong>) - 480m
+                        UK (<strong>17:54</strong>) BR (<strong>13:54</strong>) - 480m
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837708" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837708">
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838837" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838837">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A4 - Sland
+=======
+                    A2 - Romfd
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>16:43</strong>) BR (<strong>12:43</strong>) - 450m
                     </small>
@@ -1166,7 +1902,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837732" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837732">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838620" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838620">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1179,7 +1919,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837863" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837863">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838597" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838597">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1192,11 +1936,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837709" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837709">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A3 - Sland
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838380" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838380">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A4 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>17:03</strong>) BR (<strong>13:03</strong>) - 450m
                     </small>
@@ -1205,7 +1957,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837733" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837733">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838799" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838799">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1218,21 +1974,32 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837864" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837864">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838621" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838621">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A8 - Monmr
+=======
+                    A3 - Donc
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>17:18</strong>) BR (<strong>13:18</strong>) - 480m
                     </small>
                     <div>
-                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
-                                                                                            </div>
+                                                                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837710" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837710">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838598" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838598">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1245,15 +2012,24 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837734" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837734">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838381" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838381">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A2 - Hove
+=======
+                    A3 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>17:28</strong>) BR (<strong>13:28</strong>) - 500m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
@@ -1263,6 +2039,18 @@
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D2 - Monmr
+=======
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838858" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838858">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    N3 - Youghl
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>17:37</strong>) BR (<strong>13:37</strong>) - 264m
                     </small>
@@ -1271,11 +2059,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837735" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837735">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A1 - Hove
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838800" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838800">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A4 - Notts
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>17:44</strong>) BR (<strong>13:44</strong>) - 500m
                     </small>
@@ -1284,6 +2080,7 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837866" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837866">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -1291,17 +2088,34 @@
                     A4 - Monmr
                     <small>
                         UK (<strong>17:54</strong>) BR (<strong>13:54</strong>) - 480m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838622" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838622">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    D2 - Donc
+                    <small>
+                        UK (<strong>18:43</strong>) BR (<strong>14:43</strong>) - 275m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837736" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837736">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A8 - Hove
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838599" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838599">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+                    D2 - Harlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:02</strong>) BR (<strong>14:02</strong>) - 500m
                     </small>
@@ -1311,11 +2125,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837947" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837947">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A3 - Donc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838382" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838382">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A3 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:09</strong>) BR (<strong>14:09</strong>) - 483m
                     </small>
@@ -1324,7 +2146,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837830" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837830">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838859" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838859">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1337,25 +2163,46 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837711" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837711">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838623" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838623">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A6 - Newc
+=======
+                    B3 - Donc
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:19</strong>) BR (<strong>14:19</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837782" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837782">
+=======
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838801" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838801">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A8 - Yrmth
+=======
+                    A3 - Notts
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:26</strong>) BR (<strong>14:26</strong>) - 462m
                     </small>
@@ -1365,11 +2212,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837948" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837948">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838215" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838215">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A4 - Donc
+=======
+                    A8 - Mulgr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:28</strong>) BR (<strong>14:28</strong>) - 483m
                     </small>
@@ -1379,25 +2234,40 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837831" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837831">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838600" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838600">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A6 - Harlow
+=======
+                    A5 - Harlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:33</strong>) BR (<strong>14:33</strong>) - 415m
                     </small>
                     <div>
-                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
-                                                                                            </div>
+                                                                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837712" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837712">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     OR - Newc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838383" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838383">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A2 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:36</strong>) BR (<strong>14:36</strong>) - 480m
                     </small>
@@ -1406,32 +2276,51 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837480" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837480">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838216" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838216">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A8 - Youghl
+=======
+                    A4 - Mulgr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:40</strong>) BR (<strong>14:40</strong>) - 480m
                     </small>
                     <div>
-                                                                                                                    </div>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837783" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837783">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A5 - Yrmth
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838860" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838860">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A3 - Youghl
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:41</strong>) BR (<strong>14:41</strong>) - 462m
                     </small>
                     <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837949" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837949">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
@@ -1451,6 +2340,13 @@
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D2 - Harlow
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838802" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838802">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A3 - Notts
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:48</strong>) BR (<strong>14:48</strong>) - 238m
                     </small>
@@ -1459,11 +2355,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837713" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837713">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A2 - Newc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838624" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838624">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    B6 - Donc
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:51</strong>) BR (<strong>14:51</strong>) - 480m
                     </small>
@@ -1472,16 +2376,25 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837481" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837481">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838601" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838601">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A4 - Youghl
+=======
+                    A7 - Harlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:53</strong>) BR (<strong>14:53</strong>) - 480m
                     </small>
                     <div>
                                                     <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+<<<<<<< HEAD
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
                 </span>
@@ -1492,6 +2405,17 @@
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     OR - Donc
+=======
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838658" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838658">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Mulgr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:58</strong>) BR (<strong>14:58</strong>) - 483m
                     </small>
@@ -1500,11 +2424,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837784" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837784">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A3 - Yrmth
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838384" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838384">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>18:59</strong>) BR (<strong>14:59</strong>) - 462m
                     </small>
@@ -1514,100 +2446,10 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837833" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837833">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
-                <span class="m-list-timeline__text">
-                    A7 - Harlow
-                    <small>
-                        UK (<strong>19:07</strong>) BR (<strong>15:07</strong>) - 415m
-                    </small>
-                    <div>
-                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
-                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837714" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837714">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    OR - Newc
-                    <small>
-                        UK (<strong>19:09</strong>) BR (<strong>15:09</strong>) - 480m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837482" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837482">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    A5 - Youghl
-                    <small>
-                        UK (<strong>19:12</strong>) BR (<strong>15:12</strong>) - 480m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837785" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837785">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
-                <span class="m-list-timeline__text">
-                    A2 - Yrmth
-                    <small>
-                        UK (<strong>19:16</strong>) BR (<strong>15:16</strong>) - 462m
-                    </small>
-                    <div>
-                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
-                                                                                            </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837951" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837951">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    D3 - Donc
-                    <small>
-                        UK (<strong>19:18</strong>) BR (<strong>15:18</strong>) - 275m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837834" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837834">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    A5 - Harlow
-                    <small>
-                        UK (<strong>19:24</strong>) BR (<strong>15:24</strong>) - 415m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837715" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837715">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    OR - Newc
-                    <small>
-                        UK (<strong>19:26</strong>) BR (<strong>15:26</strong>) - 480m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837483" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837483">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838861" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838861">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1620,11 +2462,183 @@
                 </span>
             </div>
         </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838803" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838803">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    A7 - Harlow
+=======
+                    A2 - Notts
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:07</strong>) BR (<strong>15:07</strong>) - 415m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837714" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837714">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    OR - Newc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838625" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838625">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    B7 - Donc
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:09</strong>) BR (<strong>15:09</strong>) - 480m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837482" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837482">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Youghl
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838659" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838659">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Mulgr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:12</strong>) BR (<strong>15:12</strong>) - 480m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837785" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837785">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838385" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838385">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                <span class="m-list-timeline__text">
+                    A2 - Yrmth
+                    <small>
+                        UK (<strong>19:16</strong>) BR (<strong>15:16</strong>) - 462m
+                    </small>
+                    <div>
+<<<<<<< HEAD
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837951" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837951">
+=======
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838862" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838862">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    D3 - Donc
+=======
+                    A6 - Youghl
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:18</strong>) BR (<strong>15:18</strong>) - 275m
+                    </small>
+                    <div>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837834" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837834">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Harlow
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838602" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838602">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    D4 - Harlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:24</strong>) BR (<strong>15:24</strong>) - 415m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837715" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837715">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838660" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838660">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    OR - Newc
+                    <small>
+                        UK (<strong>19:26</strong>) BR (<strong>15:26</strong>) - 480m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837483" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837483">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838804" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838804">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+                    A2 - Youghl
+                    <small>
+                        UK (<strong>19:28</strong>) BR (<strong>15:28</strong>) - 480m
+                    </small>
+                    <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837786" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837786">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A4 - Yrmth
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838863" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838863">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Youghl
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>19:34</strong>) BR (<strong>15:34</strong>) - 462m
                     </small>
@@ -1633,6 +2647,7 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837952" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837952">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
@@ -1648,71 +2663,8 @@
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837716" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837716">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    OR - Newc
-                    <small>
-                        UK (<strong>19:41</strong>) BR (<strong>15:41</strong>) - 480m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837484" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837484">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    A6 - Youghl
-                    <small>
-                        UK (<strong>19:42</strong>) BR (<strong>15:42</strong>) - 480m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837835" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837835">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    D3 - Harlow
-                    <small>
-                        UK (<strong>19:44</strong>) BR (<strong>15:44</strong>) - 238m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837787" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837787">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    A5 - Yrmth
-                    <small>
-                        UK (<strong>19:51</strong>) BR (<strong>15:51</strong>) - 462m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837485" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837485">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    A3 - Youghl
-                    <small>
-                        UK (<strong>19:54</strong>) BR (<strong>15:54</strong>) - 480m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837953" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837953">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838626" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838626">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
@@ -1726,11 +2678,156 @@
                 </span>
             </div>
         </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838823" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838823">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    OR - Newc
+=======
+                    A5 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:41</strong>) BR (<strong>15:41</strong>) - 480m
+                    </small>
+                    <div>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837484" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837484">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Youghl
+                    <small>
+                        UK (<strong>19:42</strong>) BR (<strong>15:42</strong>) - 480m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838661" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838661">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    S6 - Mulgr
+                    <small>
+                        UK (<strong>20:00</strong>) BR (<strong>16:00</strong>) - 366m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837835" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837835">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838603" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838603">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    D3 - Harlow
+=======
+                    A5 - Harlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:44</strong>) BR (<strong>15:44</strong>) - 238m
+                    </small>
+                    <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837787" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837787">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Yrmth
+                    <small>
+                        UK (<strong>19:51</strong>) BR (<strong>15:51</strong>) - 462m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838805" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838805">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    OR - Notts
+                    <small>
+                        UK (<strong>20:06</strong>) BR (<strong>16:06</strong>) - 480m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837485" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837485">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A3 - Youghl
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838864" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838864">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A2 - Youghl
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:54</strong>) BR (<strong>15:54</strong>) - 480m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+<<<<<<< HEAD
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837953" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837953">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+                    D4 - Donc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838386" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838386">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+                <span class="m-list-timeline__text">
+                    A4 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+                    <small>
+                        UK (<strong>19:56</strong>) BR (<strong>15:56</strong>) - 275m
+                    </small>
+                    <div>
+<<<<<<< HEAD
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837717" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837717">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A1 - Newc
+=======
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838662" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838662">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A3 - Mulgr
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>19:58</strong>) BR (<strong>15:58</strong>) - 480m
                     </small>
@@ -1739,11 +2836,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837836" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837836">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A4 - Harlow
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838627" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838627">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    B7 - Donc
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>20:03</strong>) BR (<strong>16:03</strong>) - 415m
                     </small>
@@ -1752,26 +2857,70 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837788" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837788">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838806" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838806">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A2 - Yrmth
                     <small>
+<<<<<<< HEAD
                         UK (<strong>20:06</strong>) BR (<strong>16:06</strong>) - 462m
+=======
+                        UK (<strong>20:21</strong>) BR (<strong>16:21</strong>) - 480m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837486" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837486">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A2 - Youghl
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838604" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838604">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Harlow
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>20:09</strong>) BR (<strong>16:09</strong>) - 480m
+                    </small>
+                    <div>
+<<<<<<< HEAD
+                                                                            <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
+                                                                                            </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1837718" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837718">
+=======
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838663" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838663">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
+                <span class="m-list-timeline__text">
+<<<<<<< HEAD
+                    OR - Newc
+                    <small>
+                        UK (<strong>20:12</strong>) BR (<strong>16:12</strong>) - 480m
+=======
+                    S3 - Mulgr
+                    <small>
+                        UK (<strong>20:24</strong>) BR (<strong>16:24</strong>) - 366m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
@@ -1779,24 +2928,19 @@
                 </span>
             </div>
         </a>
-                            <a href="https://greenhousetips.com.br/dashboard/races/1837718" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837718">
-            <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
-                <span class="m-list-timeline__text">
-                    OR - Newc
-                    <small>
-                        UK (<strong>20:12</strong>) BR (<strong>16:12</strong>) - 480m
-                    </small>
-                    <div>
-                                                                                                                    </div>
-                </span>
-            </div>
-        </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837954" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837954">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D4 - Donc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838387" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838387">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A8 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>20:17</strong>) BR (<strong>16:17</strong>) - 275m
                     </small>
@@ -1805,7 +2949,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837789" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837789">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838865" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838865">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1818,6 +2966,7 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837837" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837837">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -1825,30 +2974,58 @@
                     A6 - Harlow
                     <small>
                         UK (<strong>20:23</strong>) BR (<strong>16:23</strong>) - 415m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838664" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838664">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    S6 - Mulgr
+                    <small>
+                        UK (<strong>20:36</strong>) BR (<strong>16:36</strong>) - 302m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837719" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837719">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838807" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838807">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     OR - Newc
                     <small>
+<<<<<<< HEAD
                         UK (<strong>20:27</strong>) BR (<strong>16:27</strong>) - 480m
                     </small>
                     <div>
+=======
+                        UK (<strong>20:36</strong>) BR (<strong>16:36</strong>) - 500m
+                    </small>
+                    <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837487" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837487">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A7 - Youghl
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838628" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838628">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    B5 - Donc
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>20:29</strong>) BR (<strong>16:29</strong>) - 480m
                     </small>
@@ -1857,7 +3034,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837790" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837790">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838605" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838605">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1870,11 +3051,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837955" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837955">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     OR - Donc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838388" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838388">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A5 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>20:38</strong>) BR (<strong>16:38</strong>) - 483m
                     </small>
@@ -1883,11 +3072,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837838" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837838">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     D1 - Harlow
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838866" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838866">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A6 - Youghl
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>20:43</strong>) BR (<strong>16:43</strong>) - 238m
                     </small>
@@ -1896,7 +3093,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837720" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837720">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838665" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838665">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1909,13 +3110,21 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837488" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837488">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838808" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838808">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     A3 - Youghl
                     <small>
+<<<<<<< HEAD
                         UK (<strong>20:47</strong>) BR (<strong>16:47</strong>) - 480m
+=======
+                        UK (<strong>20:52</strong>) BR (<strong>16:52</strong>) - 480m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                     <span class="m-badge m-badge--primary m-badge--wide">Free</span>
@@ -1924,19 +3133,29 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837791" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837791">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A7 - Yrmth
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838629" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838629">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    B4 - Donc
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>20:52</strong>) BR (<strong>16:52</strong>) - 462m
                     </small>
                     <div>
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837956" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837956">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
@@ -1944,21 +3163,39 @@
                     OR - Donc
                     <small>
                         UK (<strong>20:54</strong>) BR (<strong>16:54</strong>) - 661m
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838666" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838666">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A1 - Mulgr
+                    <small>
+                        UK (<strong>21:00</strong>) BR (<strong>17:00</strong>) - 503m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                                     </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837721" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837721">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A3 - Newc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838389" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838389">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+                <span class="m-list-timeline__text">
+                    A7 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>21:01</strong>) BR (<strong>17:01</strong>) - 480m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
@@ -1966,18 +3203,50 @@
                             <a href="https://greenhousetips.com.br/dashboard/races/1837839" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837839">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
+=======
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838606" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838606">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                 <span class="m-list-timeline__text">
-                    A6 - Harlow
+                    A4 - Harlow
                     <small>
                         UK (<strong>21:02</strong>) BR (<strong>17:02</strong>) - 415m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                     <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
                                                                     </div>
                 </span>
             </div>
         </a>
                             <a href="https://greenhousetips.com.br/dashboard/races/1837489" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837489">
+=======
+                                                    <span class="m-badge m-badge--primary m-badge--wide">Free</span>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838867" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838867">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A4 - Youghl
+                    <small>
+                        UK (<strong>21:06</strong>) BR (<strong>17:06</strong>) - 480m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838809" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838809">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -1990,11 +3259,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837792" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837792">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838630" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838630">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A3 - Yrmth
+=======
+                    B6 - Donc
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>21:11</strong>) BR (<strong>17:11</strong>) - 462m
                     </small>
@@ -2004,24 +3281,43 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837957" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837957">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838667" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838667">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     B2 - Donc
                     <small>
                         UK (<strong>21:12</strong>) BR (<strong>17:12</strong>) - 450m
+=======
+                    S1 - Mulgr
+                    <small>
+                        UK (<strong>21:12</strong>) BR (<strong>17:12</strong>) - 366m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
-                                                                                                                    </div>
+                                                                                                    <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
+                                                                    </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837722" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837722">
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
                     A4 - Newc
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838390" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838390">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A7 - Yrmth
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>21:16</strong>) BR (<strong>17:16</strong>) - 480m
                     </small>
@@ -2030,7 +3326,11 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837840" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837840">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838607" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838607">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
@@ -2043,11 +3343,19 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837490" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837490">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838868" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838868">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  "></span>
                 <span class="m-list-timeline__text">
+<<<<<<< HEAD
                     A6 - Youghl
+=======
+                    A3 - Youghl
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     <small>
                         UK (<strong>21:22</strong>) BR (<strong>17:22</strong>) - 480m
                     </small>
@@ -2056,13 +3364,21 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837793" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837793">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838810" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838810">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
                 <span class="m-list-timeline__badge  m-list-timeline__badge--info"></span>
                 <span class="m-list-timeline__text">
                     A8 - Yrmth
                     <small>
+<<<<<<< HEAD
                         UK (<strong>21:26</strong>) BR (<strong>17:26</strong>) - 462m
+=======
+                        UK (<strong>21:26</strong>) BR (<strong>17:26</strong>) - 305m
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                     </small>
                     <div>
                                                                                                     <span class="m-badge m-badge--info m-badge--wide">Dutching</span>
@@ -2070,15 +3386,20 @@
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
                             <a href="https://greenhousetips.com.br/dashboard/races/1837958" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1837958">
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838631" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838631">
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
             <div class="m-list-timeline__item">
-                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__badge m-list-timeline__badge--success "></span>
                 <span class="m-list-timeline__text">
                     B6 - Donc
                     <small>
                         UK (<strong>21:28</strong>) BR (<strong>17:28</strong>) - 450m
                     </small>
                     <div>
+<<<<<<< HEAD
                                                                                                                     </div>
                 </span>
             </div>
@@ -2092,9 +3413,40 @@
                         UK (<strong>21:35</strong>) BR (<strong>17:35</strong>) - 480m
                     </small>
                     <div>
+=======
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                                                                             <span class="m-badge m-badge--success m-badge--wide">Boa para Lay!</span>
                                                                                             </div>
                 </span>
             </div>
         </a>
+<<<<<<< HEAD
+=======
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838869" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838869">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    N2 - Youghl
+                    <small>
+                        UK (<strong>21:35</strong>) BR (<strong>17:35</strong>) - 480m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+                            <a href="https://greenhousetips.com.br/dashboard/races/1838870" class="m-list-timeline__item m-list-timeline_link link-race " data-race-id="1838870">
+            <div class="m-list-timeline__item">
+                <span class="m-list-timeline__badge  "></span>
+                <span class="m-list-timeline__text">
+                    A4 - Youghl
+                    <small>
+                        UK (<strong>21:48</strong>) BR (<strong>17:48</strong>) - 480m
+                    </small>
+                    <div>
+                                                                                                                    </div>
+                </span>
+            </div>
+        </a>
+>>>>>>> 21cb85b4d5a4a356d7ba2ddd173fecaf6023f3ec
                         </div>
